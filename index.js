@@ -6,7 +6,7 @@ app.get('/hello-world', function (req, res) {
     res.send(JSON.stringify({ "hello": "world" }, null, 3));
 })
 
-var server = app.listen(8081, function () {
+var server = app.listen(80, function () {
 
   var host = server.address().address
   var port = server.address().port
