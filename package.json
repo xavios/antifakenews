@@ -1,0 +1,22 @@
+{
+  "name": "antifakenews",
+  "version": "0.0.1",
+  "description": "Anti Fake News Backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xavios/antifakenews.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xavios/antifakenews/issues"
+  },
+  "homepage": "https://github.com/xavios/antifakenews#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
